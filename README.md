@@ -4,7 +4,7 @@ Dashboard Administrativo con React.js
 ## Descripción
 Este proyecto es un Dashboard Administrativo desarrollado con React.js para proporcionar una interfaz de usuario eficiente y centrada en la administración de datos. Diseñado para facilitar la toma de decisiones informadas, este dashboard ofrece visualizaciones claras y herramientas de administración intuitivas.
 
-##Características
+## Características
 
 - Visualizaciones Gráficas: Presenta datos clave mediante gráficos y visualizaciones, facilitando la comprensión rápida del rendimiento y las métricas importantes.
 
